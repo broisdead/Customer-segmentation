@@ -226,6 +226,4 @@ customer-segmentation/
 ✅ **Interactive dashboard** — stakeholders can explore without touching the notebook  
 ✅ **Reproducible pipeline** — fixed seeds, documented preprocessing, exportable outputs  
 
----
 
-*Built by [Your Name] · Data Science Portfolio Project · IBM Marketing Campaign Dataset*
